@@ -1,5 +1,8 @@
 name: Umbrella inc.
 filePrefix: Umbrella
-tickets:
-  github: {}
+  tickets:
+  github:
+    token: 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
+    username: silentua
+    repo: Compliance
 approvedBranch: ""
